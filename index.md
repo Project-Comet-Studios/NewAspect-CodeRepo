@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## NewAspect Landing
 
-You can use the [editor on GitHub](https://github.com/Project-Comet-Studios/NewAspect-CodeRepo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the official-temporary website of Project Comet's newest addition, NewAspect.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
