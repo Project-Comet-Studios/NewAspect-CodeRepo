@@ -1,0 +1,9 @@
+@keyframes breathe {
+  50% {
+    font-variation-settings: 'wght' 700;
+  }
+}
+
+h1 span {
+  animation-delay: calc((var(--index)-6) * 0.25s);
+}
