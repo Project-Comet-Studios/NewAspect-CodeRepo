@@ -3,6 +3,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>NewAspect Landing</title>
+    <style>
+    @keyframes breathe {
+      50% {
+        font-variation-settings: 'wght' 700;
+      }
+    }
+
+    h1 span {
+      animation-delay: calc((var(--index)-6) * 0.25s);
+    }
+</style>
 
     <h1>
       <span style="--index: 0">N</span>
