@@ -18,6 +18,14 @@ This is the official-temporary website of Project Comet's newest addition, NewAs
 * SafeLink - *no invite*
 
 
+## Tasks 
+
+- [x] Moved NewAspect to Heroku hosting :tada:
+- [x] Forever uptime (in a sense) {750 hours a month} :tada:
+- [ ] Add useful commands
+- [ ] Self-reply
+- [ ] Custom website to change things like Dyno
+
 ### Support or Contact
 
 Having trouble with NewAspect? Feel free to contact nick_#0001 for support!
